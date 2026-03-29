@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "なんとも思ってねぇ",
+  "base_artist": "DJ CHARI",
+  "createdAt": "2026-03-29T10:13:39.777865Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんとも思ってねぇ (feat. LEX, Choppa Capone & 1MILL)",
+      "artist": "DJ CHARI",
+      "has_synced": false,
+      "path": "select/pl_01_なんとも思ってねぇ_(feat._LEX,_Choppa_Capone_&_1MILL)_DJ_CHARI.txt"
+    }
+  ]
+}
